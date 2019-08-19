@@ -13219,11 +13219,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\gaute.baalsrud\\OneDrive - Bouvet Norge AS\\Documents\\azure-workshops\\Workshop_1\\Start\\AzureWorkshop\\AzureWorkshopApp\\AzureWorkshopApp.csproj",
+      "projectUniqueName": "C:\\Users\\gaute.baalsrud\\OneDrive - Bouvet Norge AS\\Documents\\azureDevOps\\AzureWorkshop\\AzureWorkshopApp\\AzureWorkshopApp.csproj",
       "projectName": "AzureWorkshopApp",
-      "projectPath": "C:\\Users\\gaute.baalsrud\\OneDrive - Bouvet Norge AS\\Documents\\azure-workshops\\Workshop_1\\Start\\AzureWorkshop\\AzureWorkshopApp\\AzureWorkshopApp.csproj",
+      "projectPath": "C:\\Users\\gaute.baalsrud\\OneDrive - Bouvet Norge AS\\Documents\\azureDevOps\\AzureWorkshop\\AzureWorkshopApp\\AzureWorkshopApp.csproj",
       "packagesPath": "C:\\Users\\gaute.baalsrud\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\gaute.baalsrud\\OneDrive - Bouvet Norge AS\\Documents\\azure-workshops\\Workshop_1\\Start\\AzureWorkshop\\AzureWorkshopApp\\obj\\",
+      "outputPath": "C:\\Users\\gaute.baalsrud\\OneDrive - Bouvet Norge AS\\Documents\\azureDevOps\\AzureWorkshop\\AzureWorkshopApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
